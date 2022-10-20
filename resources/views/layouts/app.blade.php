@@ -227,8 +227,7 @@
                 </svg>
                 Kira
             </a>
-            <p class="my-6 text-gray-500 dark:text-gray-400">Open-source library of over 400+ web components and interactive elements built for better web.</p>
-            <ul class="flex flex-wrap justify-center items-center mb-6 text-gray-900 dark:text-white">
+            <ul class="flex flex-wrap justify-center items-center my-6 text-gray-900 dark:text-white">
                 <li>
                     <a href="#" class="mr-4 hover:underline md:mr-6 ">About</a>
                 </li>
@@ -259,6 +258,7 @@
 
   <script src="https://unpkg.com/flowbite@1.5.3/dist/flowbite.js"></script>
   <script src="https://unpkg.com/flowbite@1.5.3/dist/datepicker.js"></script>
+  <script src="https://cdn.tailwindcss.com"></script>
   <script>
     var themeToggleDarkIcon = document.getElementById('theme-toggle-dark-icon');
     var themeToggleLightIcon = document.getElementById('theme-toggle-light-icon');
