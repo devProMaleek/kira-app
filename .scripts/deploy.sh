@@ -9,7 +9,7 @@ echo "Deployment started ..."
 (php artisan down --message "The app is beeing (quickly) updated. Please try again in a few minutes") || true
 
 # Pull the latest version of the app
-git pull origin production
+git pull origin main
 
 # Install composer dependencies
 composer install --no-dev --no-interaction --prefer-dist --optimize-autoloader
