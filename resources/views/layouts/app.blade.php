@@ -49,7 +49,7 @@
                 class="text-white bg-primary-700 hover:bg-primary-800 focus:ring-4 focus:ring-primary-300 font-medium rounded-lg text-sm px-4 lg:px-5 py-2 lg:py-2.5 mr-2 dark:bg-primary-600 dark:hover:bg-primary-700 focus:outline-none dark:focus:ring-primary-800">{{ __('Get Started') }}</a>
             @else
               <button id="dropdownAvatarNameButton" data-dropdown-toggle="dropdownAvatarName"
-                class="flex items-center text-sm font-medium text-gray-900 rounded-full hover:text-blue-600 dark:hover:text-blue-500 md:mr-0 focus:ring-4 focus:ring-gray-100 dark:focus:ring-gray-700 dark:text-white"
+                class="flex items-center text-sm font-medium text-gray-900 rounded-full hover:text-primary-600 dark:hover:text-primary-500 md:mr-0 focus:ring-4 focus:ring-gray-100 dark:focus:ring-gray-700 dark:text-white"
                 type="button">
                 <span class="sr-only">Open user menu</span>
                 <img class="mr-2 w-8 h-8 rounded-full" src="https://flowbite.com/docs/images/people/profile-picture-3.jpg" alt="user photo">

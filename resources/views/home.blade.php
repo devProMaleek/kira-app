@@ -154,7 +154,7 @@
 
       <div class="text-center my-4 py-4">
         <a href="{{ route('learn') }}"
-          class="inline-flex items-center py-4 px-6 text-base font-medium text-center text-white bg-blue-700 rounded-full hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
+          class="inline-flex items-center py-4 px-6 text-base font-medium text-center text-white bg-primary-700 rounded-full hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
           View all lessons
           <svg aria-hidden="true" class="ml-2 -mr-1 w-4 h-4" fill="currentColor" viewBox="0 0 20 20"
             xmlns="http://www.w3.org/2000/svg">
@@ -179,7 +179,7 @@
           </p>
         <div class="flex space-x-2">
             <a href="{{ route('session') }}"
-              class="mt-4 inline-flex items-center py-4 px-6 text-base font-medium text-center text-white bg-blue-700 rounded-full hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
+              class="mt-4 inline-flex items-center py-4 px-6 text-base font-medium text-center text-white bg-primary-700 rounded-full hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
               Book a Session
               <svg aria-hidden="true" class="ml-2 -mr-1 w-4 h-4" fill="currentColor" viewBox="0 0 20 20"
                 xmlns="http://www.w3.org/2000/svg">
@@ -189,7 +189,7 @@
               </svg>
             </a>
             <a href="tel:+2349039561875"
-              class="mt-4 inline-flex items-center py-4 px-6 text-base font-medium text-center text-white bg-blue-700 rounded-full hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
+              class="mt-4 inline-flex items-center py-4 px-6 text-base font-medium text-center text-white bg-primary-700 rounded-full hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
               Call
               <svg aria-hidden="true" class="ml-2 -mr-1 w-4 h-4" fill="currentColor" viewBox="0 0 20 20"
                 xmlns="http://www.w3.org/2000/svg">
@@ -215,7 +215,7 @@
         <p class="mx-auto mb-8 max-w-2xl font-light text-gray-500 md:mb-12 sm:text-xl dark:text-gray-400">Do you want to save somone sufferring from drug abuse, depression or anxiety</p>
         <div class="text-center">
           <a href="{{ route('whisper') }}"
-            class="inline-flex items-center py-4 px-6 text-base font-medium text-center text-white bg-blue-700 rounded-full hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
+            class="inline-flex items-center py-4 px-6 text-base font-medium text-center text-white bg-primary-700 rounded-full hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
             Whisper a Case Here
             <svg aria-hidden="true" class="ml-2 -mr-1 w-4 h-4" fill="currentColor" viewBox="0 0 20 20"
               xmlns="http://www.w3.org/2000/svg">

@@ -12,16 +12,16 @@ module.exports = {
         extend: {
             colors: {
                 primary: {
-                    50: "#eff6ff",
-                    100: "#dbeafe",
-                    200: "#bfdbfe",
-                    300: "#93c5fd",
-                    400: "#60a5fa",
-                    500: "#3b82f6",
-                    600: "#2563eb",
-                    700: "#1d4ed8",
-                    800: "#1e40af",
-                    900: "#1e3a8a",
+                    50: "#ffebcc",
+                    100: "#ffe0b3",
+                    200: "#ffd699",
+                    300: "#ffcc80",
+                    400: "#ffc266",
+                    500: "#ffb84d",
+                    600: "#ffad33",
+                    700: "#ffa31a",
+                    800: "#ff9900",
+                    900: "#e68a00",
                 },
             },
             fontFamily: {
